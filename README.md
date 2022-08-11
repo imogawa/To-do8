@@ -13,22 +13,23 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 ## 🛠Instalando <To-do 8 - Modulo 4>
 
-Para clonar o <Todo 8>, siga estas etapas:
+Para usar o <Todo 8>, siga estas etapas:
 
+```
 Windows:
-Instale o node.js
-Execute o comando: npm install 
-Instale a framework express - npm i express
-
+<Instale o node.js>
+<Execute o comando: npm install>
+<Instale a framework express - npm i express>
+```
 
 ##  💡Usando <Todo 8>
 
 Para usar <Todo 8>, siga estas etapas:
-
+```
 <Inicie o arquivo criado com comando Node + nome do arquivo.js>
 <Caso você queira inserir uma nova dica, basta ir na rota /create e inserir em formato Json>
 <Caso você queira receber uma dica aleatória, basta ir na rota /dicas e executar o GET>
-
+```
 
 
 ##  📮Contribuindo para <Todo 7>
